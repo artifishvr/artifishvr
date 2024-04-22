@@ -29,7 +29,7 @@ jobs:
           base: header, activity, community, repositories, metadata
           config_timezone: America/Vancouver
           plugin_isocalendar: yes
-          plugin_languages: yes
+          plugin_languages: no
           plugin_languages_analysis_timeout: 15
           plugin_languages_categories: markup, programming
           plugin_languages_colors: github
