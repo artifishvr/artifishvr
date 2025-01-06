@@ -214,25 +214,19 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 1.77mb of code in 1301 edited files across 66 commits over last 14 days</small>
+                <small>estimation from 1.77mb of code in 1298 edited files across 64 commits over last 14 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="169.24106376894483" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="169.24106376894483" y="0" width="89.31655704889906" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="258.5576208178438" y="0" width="82.68687446382614" height="8" fill="#ff3e00"/>
-                    <rect mask="url(#languages-bar)" x="341.24449528166997" y="0" width="81.02945381755791" height="8" fill="#ff5a03"/>
-                    <rect mask="url(#languages-bar)" x="422.2739490992279" y="0" width="37.726050900772094" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="111.0186962394256" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="111.0186962394256" y="0" width="102.77813321959195" height="8" fill="#ff3e00"/>
+                    <rect mask="url(#languages-bar)" x="213.79682945901754" y="0" width="100.71799246463354" height="8" fill="#ff5a03"/>
+                    <rect mask="url(#languages-bar)" x="314.5148219236511" y="0" width="98.59245041586692" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="413.107272339518" y="0" width="46.892727660481974" height="8" fill="#f1e05a"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#3178c6" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        TypeScript
-                    </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill="#89e051" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
@@ -250,6 +244,12 @@
                             <path fill="#ff5a03" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         Astro
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#3178c6" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        TypeScript
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1374,7 +1374,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Jan 2025, 20:21:55 (timezone America/Vancouver) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 5 Jan 2025, 21:17:51 (timezone America/Vancouver) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
