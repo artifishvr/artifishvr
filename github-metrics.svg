@@ -164,15 +164,15 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 15.7kb of code in 26 edited files across 23 commits over last 14 days</small>
+                <small>estimation from 15.9kb of code in 27 edited files across 25 commits over last 14 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="311.69378757515034" height="8" fill="#ff5a03"/>
-                    <rect mask="url(#languages-bar)" x="311.69378757515034" y="0" width="122.97394789579157" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="434.66773547094186" y="0" width="25.332264529058115" height="8" fill="#ff3e00"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="308.65057945705666" height="8" fill="#ff5a03"/>
+                    <rect mask="url(#languages-bar)" x="308.65057945705666" y="0" width="126.2644864264169" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="434.9150658834736" y="0" width="25.08493411652643" height="8" fill="#ff3e00"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1287,7 +1287,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Oct 2025, 12:15:18 (timezone America/Vancouver) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 3 Oct 2025, 13:20:42 (timezone America/Vancouver) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
